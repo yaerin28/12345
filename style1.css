@@ -1,0 +1,43 @@
+* {
+    color :black;
+}
+
+.rebeccapurple{
+    width:10000px;
+    height:10px;
+    background:rebeccapurple;
+}
+
+p.name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.highlight {
+    background-color: rgb(255, 255, 155); 
+    padding: 2px 4px;         
+    border-radius: 3px;       
+}
+
+.pink{
+    width:10000px;
+    height:3px;
+    background:rgb(129, 129, 129);
+}
+
+p.good{
+    color: rgb(0, 174, 255);
+    font-weight: bold;
+}
+
+
+p.strength{
+    color: darkgreen;
+    font-weight: bold;
+}
+
+
+p.weakness{
+    color: rgb(124, 0, 0);
+    font-weight: bold;
+}
